@@ -1,4 +1,4 @@
-.. title: -
+.. title: Publications
 .. slug: 
 .. date: 2017-10-08 15:23:38 UTC+09:00
 .. tags: 
@@ -6,10 +6,6 @@
 .. link: 
 .. description: 
 
-
-==============
- Publications
-==============
 
 -------------------------
  Conference Publications
