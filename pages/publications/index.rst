@@ -1,5 +1,5 @@
 .. title:
-.. slug: index
+.. slug: 
 .. date: 2017-10-08 15:23:38 UTC+09:00
 .. tags: 
 .. category: 
