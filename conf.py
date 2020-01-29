@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Likhith Manjunatha"  # (translatable)
 BLOG_TITLE = "Likhith Manjunatha"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://likhith-manjunatha.github.io/"
+SITE_URL = "https://likhith-manjunatha.github.io/pages/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://likhith-manjunatha.github.io/pages/"
@@ -152,7 +152,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "bootblog3"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
