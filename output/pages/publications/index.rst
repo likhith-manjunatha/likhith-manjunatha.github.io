@@ -5,7 +5,7 @@
 .. category: 
 .. link: 
 .. description: 
-.. type: text
+
 
 ==============
  Publications
