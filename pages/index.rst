@@ -15,9 +15,12 @@
 
 .. topic:: About me
 
-    | I am a 1st year Master's student at Kyushu University (Japan) pursuing Mechanical Engineering.
-    | My current research involves investigating thermo-physical properties of liquids using
-    | Molecular Dynamics simulations.
+    | I am a 2nd year graduate student at Kyushu University, Japan, with interests in fields spanning thermodynamics, phase change, heat transfer, data analysis and automation. 
+    | I have worked on a wide array of projects, including- 
+    | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    | the investigation of thermo-physical properties of alcohols to explicate structure-property relationships, ice nucleation and defrost mechanisms on superhydrophobic surfaces and 
+ 
 
 
 You can find my CV `here`_
