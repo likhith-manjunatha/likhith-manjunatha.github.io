@@ -1,13 +1,13 @@
 .. title:  
-.. slug: index
+.. slug: 
 .. date: 2017-10-08 15:23:38 UTC+09:00
 .. tags: 
 .. category: 
 .. link: 
 .. description: 
 
-.. figure:: ../image/profile.jpg
-   :target: ../image/profile.jpg
+.. figure:: /image/profile.jpg
+   :target: /image/profile.jpg
    :class: thumbnail
    :align: left
    :height: 400 px
