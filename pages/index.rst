@@ -21,4 +21,4 @@
     | If you wish to get in touch with me regarding my research, or want to know more about life in Japan, drop me an email at *likhithm95@gmail.com*
 
 
-.. _here: /Curriculum\ Vitae/Curriculum\ Vitae.pdf
+.. _**here**: /Curriculum\ Vitae/Curriculum\ Vitae.pdf
