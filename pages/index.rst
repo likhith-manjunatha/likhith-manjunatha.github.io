@@ -16,13 +16,9 @@
 .. topic:: About me
 
     | I am a 2nd year graduate student at Kyushu University, Japan, with interests in fields spanning thermodynamics, phase change, heat transfer, data analysis and automation. 
-    | I have worked on a wide array of projects, including- 
-    | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    | I have worked on multiple research projects and in various small-scale Japanese companies where I have used a variety of tools including molecular dynamics, Python, image processing and machine learning. 
+    | You can refer to my CV `here`_, for a more comprehensive understanding of my interests and experiences.
+    | If you wish to get in touch with me regarding my research, or want to know more about life in Japan, drop me an email at *likhithm95@gmail.com*
 
-    | the investigation of thermo-physical properties of alcohols to explicate structure-property relationships, ice nucleation and defrost mechanisms on superhydrophobic surfaces and 
- 
-
-
-You can find my CV `here`_
 
 .. _here: /Curriculum\ Vitae/Curriculum\ Vitae.pdf
