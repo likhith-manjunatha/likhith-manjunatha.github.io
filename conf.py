@@ -140,6 +140,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/pages/publications/", "Publications"),
+        ("/pages/presentations/", "Presentations"),
         ("https://www.youtube.com/channel/UC4hHZYRPZyFtfvGIASHYIOw/videos?view=0&sort=dd&view_as=subscriber&shelf_id=0/", "YouTube"),
     ),
 }
