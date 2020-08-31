@@ -10,7 +10,7 @@
    :target: /image/profile.jpg
    :class: thumbnail
    :align: left
-   :height: 400 px
+   :height: 330 px
    :width: 440 px
 
 .. topic:: About me
