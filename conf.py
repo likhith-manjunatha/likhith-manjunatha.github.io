@@ -142,6 +142,7 @@ NAVIGATION_LINKS = {
         ("/pages/publications/", "Publications"),
         ("/pages/presentations/", "Presentations"),
         ("https://www.youtube.com/channel/UC4hHZYRPZyFtfvGIASHYIOw/videos?view=0&sort=dd&view_as=subscriber&shelf_id=0/", "YouTube"),
+        ("/pages/media/", "Media"),
     ),
 }
 
